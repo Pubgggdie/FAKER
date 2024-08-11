@@ -217,9 +217,11 @@ to{
 .bottom img{
     height:25vh;
     border-radius:15px;
+   
 }
 .bottom2{
-    width:25%;
+    width:35%;
+padding-left:5vh;
 }
 .bottom2 p{
     font-weight:100;
@@ -235,7 +237,7 @@ to{
     position: absolute;
     border-radius: 50%;
     background:linear-gradient(115deg, #1c59db, #6a6060);
-    top:58%;
+    top:45%;
     left:25%;
     filter: blur(20px);
     animation-name:gooey;
