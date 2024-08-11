@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
 @font-face {
+    font-family:futura;
+    src: url(futura.ttfgit);
+}
+@font-face {
     font-family:ok;
     src: url(/HelveticaNowText-Regular.ttf);
 }
